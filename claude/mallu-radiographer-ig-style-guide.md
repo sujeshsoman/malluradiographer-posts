@@ -1,0 +1,18 @@
+# @malluradiographer Instagram style guide
+
+Canvas: https://claude.ai/artifact/D43oZ8Bmx5Gq18mdrsq49d  (copy the last artboard; change only <title>, <h1>, <p>)
+Renderer: claude/render_post.py in this repo (python: /usr/bin/python3 has Playwright; chromium at /opt/pw-browsers/chromium)
+Copy: title 3-8 words; fact 15-35 words; UK English. Caption <2,000 chars, hook + bullets + "💡" tip + "📚 Source:" + CTA + 10-14 hashtags.
+Never post twice in a day; never repeat a topic or the same modality two posts in a row.
+
+## Posts made
+- 2026-10-19: CT Scanning Began in London (first patient CT scan, 1 Oct 1971) — Classic neon navy, yellow logo — posted
+- 2026-10-19: Never Underestimate the MRI Magnet (always-on superconducting field) — Classic neon navy, yellow logo — posted
+- 2026-10-19: Why Is the MRI So Loud? (gradient coil noise) — Classic neon navy, yellow logo — posted
+- 2026-10-19: Why Is Water Zero on CT? (Hounsfield units) — Classic neon navy, yellow logo — posted
+- 2026-10-19: Why Tc-99m Is Nuclear Medicine's Favourite — Classic neon navy, yellow logo — posted
+- 2026-10-19: Why Does Distance Cut Your Dose? (inverse square law) — Classic neon navy, yellow logo — posted
+- 2026-10-19: What Is the Larmor Frequency? (MRI) — Classic neon navy, yellow logo — posted
+- 2026-10-19: How Does an Ultrasound Probe Work? (piezoelectric effect) — Classic neon navy, yellow logo — posted
+- 2026-10-19: What Do CT Window Settings Do? (window level/width) — Classic neon navy, yellow logo — posted
+- 2026-10-19: T1 or T2: What's Bright Where? (MRI T1 vs T2 contrast) — Classic neon navy, yellow logo — source: Radiopaedia – T1 weighted image; T2 weighted image — posted https://www.instagram.com/p/Dery4urFzou/
