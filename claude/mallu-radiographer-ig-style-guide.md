@@ -1,7 +1,8 @@
 # @malluradiographer Instagram style guide
 
 Canvas: https://claude.ai/artifact/D43oZ8Bmx5Gq18mdrsq49d  (copy the last artboard; change only <title>, <h1>, <p>)
-Renderer: claude/render_post.py in this repo (python: /usr/bin/python3 has Playwright; chromium at /opt/pw-browsers/chromium)
+Renderer: claude/render_post.py + claude/post-template.html in this repo (all 12 monthly themes built in). Run: /usr/bin/python3 claude/render_post.py --title T --fact F --out f.jpg  (month = today UK date; --print-theme shows it). Use /usr/bin/python3 (it has Playwright).
+To make the canvas artboard match, copy the last artboard and change only <title>, <h1>, <p>.
 Copy: title 3-8 words; fact 15-35 words; UK English. Caption <2,000 chars, hook + bullets + "💡" tip + "📚 Source:" + CTA + 10-14 hashtags.
 Never post twice in a day; never repeat a topic or the same modality two posts in a row.
 
