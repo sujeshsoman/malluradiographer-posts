@@ -393,7 +393,7 @@ Page durations add up to 153.0 s (2:33).
 
 ## 5. Build notes
 
-(Filled in by the daily task after it builds the video.)
+2026-10-21 automated run: BUILD stopped at the safety gate. Neither reference could be opened in this run (Radiopaedia returned 406/403 and NCBI StatPearls served a reCAPTCHA page from both the cloud shell and the Higgsfield sandbox), so the claims could not be re-checked against the reference text. The package also still has a [USER TO SUPPLY] placeholder on page 8 and no TTS copy. No voice or video was made and nothing was uploaded. To publish: set Status to Ready only after the refs are checked, and a video is built.
 
 ## Extra: AI video prompts (vertical 9:16, from the manual version)
 
