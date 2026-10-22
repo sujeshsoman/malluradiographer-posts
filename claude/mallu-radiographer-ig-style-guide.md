@@ -18,3 +18,4 @@ Never post twice in a day; never repeat a topic or the same modality two posts i
 - 2026-10-19: What Do CT Window Settings Do? (window level/width) — Classic neon navy, yellow logo — posted
 - 2026-10-19: T1 or T2: What's Bright Where? (MRI T1 vs T2 contrast) — Classic neon navy, yellow logo — source: Radiopaedia – T1 weighted image; T2 weighted image — posted https://www.instagram.com/p/Dery4urFzou/
 - 2026-10-20: What Is the Anode Heel Effect? (X-ray tube intensity gradient) — Classic neon navy, yellow logo — image posts/2026-10-20-anode-heel-effect.jpg — source: Radiopaedia – Anode heel effect — posted https://www.instagram.com/p/Det7EDsFrfl/
+- 2026-10-22: Who Won the CT Nobel Prize? (1979 Nobel, Cormack and Hounsfield) — Classic neon navy, yellow logo — image posts/2026-10-22-ct-nobel-prize.jpg — source: NobelPrize.org – The Nobel Prize in Physiology or Medicine 1979
