@@ -435,4 +435,4 @@ Pinned comment: Answer: the referrer asks, the practitioner justifies and author
 
 ## 5. Build notes
 
-(Filled after BUILD.)
+BUILD not completed on 22 Oct 2026. Safety gate passed (two references opened and checked). Voice failed: Zapier returned "Task limits for this account have been reached" for the Gemini Generate Audio call, and the Higgsfield seed_audio fallback returned "Out of credits in the selected workspace". No voice, slides or video were made. To retry: top up Zapier tasks or Higgsfield credits, set Status to Drafting, and run BUILD on this package.
