@@ -6,6 +6,11 @@ To make the canvas artboard match, copy the last artboard and change only <title
 Copy: title 3-8 words; fact 15-35 words; UK English. Caption <2,000 chars, hook + bullets + "💡" tip + "📚 Source:" + CTA + 10-14 hashtags.
 Never post twice in a day; never repeat a topic or the same modality two posts in a row.
 
+## Standing rules (added 2026-11-01 by Sujesh – apply to all automated posts)
+- Slide fact: richer than before, about 40-60 words (2-3 short sentences: what it is, why it happens, why it matters to practice). Must still fit the card without clipping; shrink only if needed. Title stays 3-8 words.
+- Every slide must show small corner text: "Read the caption for more 👇". The renderer has no option for it and must not be edited, so after rendering, overlay it with Pillow (bottom-left, small, semi-transparent white, clear of the bottom-right logo; draw the 👇 with an emoji font such as Noto Color Emoji, or fall back to a drawn arrow) and save as the final JPG. Check it visually.
+- Caption: more detailed than before (still under 2,000 chars): hook, fuller explanation (3-5 sentences), 3-4 emoji bullets, "💡" tip, a fuller reference line "📚 Source: <publication – article title>" (add a second reference where one exists), exact CTA, save/share nudge, 10-14 hashtags.
+
 ## Posts made
 - 2026-10-19: CT Scanning Began in London (first patient CT scan, 1 Oct 1971) — Classic neon navy, yellow logo — posted
 - 2026-10-19: Never Underestimate the MRI Magnet (always-on superconducting field) — Classic neon navy, yellow logo — posted
