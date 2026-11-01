@@ -11,6 +11,13 @@ Never post twice in a day; never repeat a topic or the same modality two posts i
 - Every slide must show small corner text: "Read the caption for more 👇". The renderer has no option for it and must not be edited, so after rendering, overlay it with Pillow (bottom-left, small, semi-transparent white, clear of the bottom-right logo; draw the 👇 with an emoji font such as Noto Color Emoji, or fall back to a drawn arrow) and save as the final JPG. Check it visually.
 - Caption: more detailed than before (still under 2,000 chars): hook, fuller explanation (3-5 sentences), 3-4 emoji bullets, "💡" tip, a fuller reference line "📚 Source: <publication – article title>" (add a second reference where one exists), exact CTA, save/share nudge, 10-14 hashtags.
 
+## Post workflow (added 2026-11-01 – use for every create/improve request, scheduled or manual)
+1. Pull skills first. Invoke the matching skills from the library via the Skill tool before drafting: instagram-agent:ig-caption (caption, search terms, lint), instagram-agent:ig-carousel (if the idea is list/step shaped), instagram-agent:ig-reel / ig-story (if that format fits), instagram-agent:ig-audit (what has worked), instagram-agent:ig-plan (format and timing). Add copywriting, storytelling, audience-analysis or visual-description skills where the library has them. Finish every text with instagram-agent:ig-human (remove AI-sounding phrasing).
+2. Instagram agent pass (the instagram-agent skills are the IGagent layer): choose format (static, carousel, Reel, story), check first-line hook survives the "... more" cut, one clear CTA, hashtag set, save/share mechanic, accessibility (alt text).
+3. Deliver a full draft: hook, concise body, CTA, visual direction (slide title/fact/theme), hashtags, plus a 2-3 line rationale naming the skills applied and what the Instagram pass changed.
+4. Improving an existing post: analyse it first with the same framework (hook, clarity, accuracy, CTA, hashtags, format fit), list specific weaknesses, then rewrite with the changes marked.
+5. Scheduled runs: skills are used to shape the copy only. All Standing rules, fact verification, no-repeat checks and the publishing steps still apply unchanged; if a skill is unavailable, continue without it and never block publishing.
+
 ## Posts made
 - 2026-10-19: CT Scanning Began in London (first patient CT scan, 1 Oct 1971) — Classic neon navy, yellow logo — posted
 - 2026-10-19: Never Underestimate the MRI Magnet (always-on superconducting field) — Classic neon navy, yellow logo — posted
